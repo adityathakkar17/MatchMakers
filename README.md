@@ -113,16 +113,16 @@ To set up the project on your local machine:
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/1.JPG)
+![Home Page](/1.JPG)
 
 ### User Registration
-![User Registration](screenshots/2.JPG)
+![User Registration](/2.JPG)
 
 ### Search Feature
-![Search Feature](screenshots/search_feature_mm.png)
+![Search Feature](/search_feature_mm.png)
 
 ### View Profile
-![View Profile](screenshots/view_profile_mm.png)
+![View Profile](/view_profile_mm.png)
 
 ---
 
